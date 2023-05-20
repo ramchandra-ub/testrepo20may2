@@ -2,12 +2,12 @@
     "assetName": "testasset",
     "description": "test description",
     "topics": [
-        "history2",
         "ens-asset",
-        "history1",
-        "ens-others"
+        "history2",
+        "ens-others",
+        "history1"
     ],
     "associations": [
-        "github.com/test"
+        "github.com/test12"
     ]
 }
